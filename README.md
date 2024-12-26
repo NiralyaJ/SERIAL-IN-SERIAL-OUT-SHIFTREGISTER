@@ -44,7 +44,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 ### RTL OUTPUT :
 
-![ex10 waveform](https://github.com/user-attachments/assets/047e4566-64eb-4908-b4be-5694096295cd)
+![exp10 wave](https://github.com/user-attachments/assets/c0d52687-4e0c-4b7f-916e-79463e999557)
 
 
 ### RESULT:
